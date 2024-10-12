@@ -9,7 +9,7 @@ Este repositorio contiene un cuaderno de Python que utiliza el algoritmo K-Neare
  
 ## Cómo ejecutar el notebook en Google Colab
 1. En el repositorio se encuentra un archivo con el nombre de KNN.ipynb el cual de manera dandole un click redirige el proyecto en Colab
-   o con el siguiente link lo habre directamente [Abrir en Google Colab]([https://colab.research.google.com/drive/1IWWhNCiiMJTNKSaT9n8ytPaJaM1q27VP](https://colab.research.google.com/drive/1tc4R2Ou8q3bVn0tQYH1-jpD7Eips9OAA#scrollTo=iVoHyqO-R03X))
+   o con el siguiente link lo habre directamente [Abrir en Google Colab](https://colab.research.google.com/drive/1tc4R2Ou8q3bVn0tQYH1-jpD7Eips9OAA#scrollTo=iVoHyqO-R03X))
 
 ## Requisitos
 En Colab asegurarse de tener instaladas las siguientes librerías:
